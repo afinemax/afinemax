@@ -6,6 +6,7 @@
 🔭 I’m currently working on:<br>        •  Searching for Gamma-rays from FRBs using SWIFT/BAT & GUANO<br><br>👯 I’m looking to collaborate on<br>        •  Anything astronomy!<br>        •  RaspberryPi projects<br>        •  Basic Algorithm trading <br><br><br>💬 Ask me about<br>        •  My research!<br>
 
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/afinemax)
 <!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=afinemax&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
