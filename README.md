@@ -1,6 +1,8 @@
-## 🔗 Check out my perosnal website [here](https://afinemax.github.io/afinemax1/) 
 
 # 🧙‍♂️🐚📡💫 About Me:
+
+🔗 Check out my perosnal website [here!](https://afinemax.github.io/afinemax1/) <br> <br>
+
 
 🔭 I’m currently working on:<br>        •  Searching for Gamma-rays from FRBs using SWIFT/BAT & GUANO<br><br>👯 I’m looking to collaborate on<br>        •  Anything astronomy!<br>        •  RaspberryPi projects<br>        •  Basic Algorithm trading <br><br><br>💬 Ask me about<br>        •  My research!<br>
 
