@@ -27,6 +27,7 @@ Hi, I'm Max! I'm an undergraduate student studying Physics & Astrophysics at the
 
 Other interests:<br> 
 • Reading <br> 
+• Plants <br> 
 • Exploring coffee shops<br> 
 
 💸 Buy me a coffee:<br> 
