@@ -5,9 +5,8 @@ Hi, I'm Max! I'm an undergraduate student studying Physics & Astrophysics at the
 
 🔭 Academic Interests:<br> 
 • Cosmic Magnetism, Radio polarization surveys<br> 
-• Gravitational Waves<br> 
+• Multi-Messenger Astronomy<br>
 • Fast Radio Bursts<br> 
-• Relativistic Astrophysics<br> 
 • Observational Astronomy<br> 
 • Outreach<br> 
 • Astrophysics<br> 
@@ -32,7 +31,6 @@ Other interests:<br>
 
 💸 Buy me a coffee:<br> 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/afinemax)
-
 
 
 
