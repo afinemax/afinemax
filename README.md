@@ -5,6 +5,7 @@ Hi, I'm Max! I'm an undergraduate student studying Physics & Astrophysics at the
 
 🔭 Academic Interests:<br> 
 • Cosmic Magnetism, Radio polarization surveys<br> 
+• Radio Astronomer<br>
 • Multi-Messenger Astronomy<br>
 • Fast Radio Bursts<br> 
 • Observational Astronomy<br> 
