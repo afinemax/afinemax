@@ -6,8 +6,10 @@ Hi, I'm Max! I'm an undergraduate student studying Physics & Astrophysics at the
 🔗 Check out my personal website [here!](https://afinemax.github.io/afinemax1/) <br> 
 
 💸 Buy me a coffee:<br> 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/afinemax)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/afinemax) <br>
 
+🔭 I’m currently working on:<br>  
+•  Searching for Gamma-rays from FRBs using SWIFT/BAT & GUANO
 
 
 <!--
