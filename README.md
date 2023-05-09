@@ -5,7 +5,7 @@ Hi, I'm Max! I'm an undergraduate student studying Physics & Astrophysics at the
 
 🔗 Check out my personal website [here!](https://afinemax.github.io/afinemax1/) <br> 
 
-🔭 I’m currently working on: 
+🔭 I’m currently working on:<br>
 •  Searching for Gamma-rays from FRBs using SWIFT/BAT & GUANO
 
 💸 Buy me a coffee:<br> 
