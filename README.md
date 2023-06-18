@@ -1,7 +1,7 @@
 # 🧙‍♂️🐚📡💫 
 # Welcome to My GitHub Profile!
 
-Hi, I'm Max! I'm an undergraduate student studying Physics & Astrophysics at the University of Toronto. I'm passionate about exploring the unknown, improving our understanding of the cosmos, and adding to the collective knowledge of humankind. I believe that science has the power to change the world and I'm eager to contribute to that change in any way I can.<br> 
+Hi, I'm Max! I'm an graduate student studying Physics & Astrophysics at the University of Amsterdam. I'm passionate about exploring the unknown, improving our understanding of the cosmos, and adding to the collective knowledge of humankind. I believe that science has the power to change the world and I'm eager to contribute to that change in any way I can.<br> 
 
 🔗 Check out my personal website [here!](https://afinemax.github.io/afinemax1/) <br> 
 
