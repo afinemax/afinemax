@@ -8,7 +8,7 @@ Hi, I'm Max! I'm an graduate student studying Physics & Astrophysics at the Univ
 🔭 I’m currently working on:<br>
 •  Searching for Gamma-rays from FRBs using SWIFT/BAT & GUANO
 
-👯 I’m looking to collaborate o:n<br>
+👯 I’m looking to collaborate on<br>
 •  Anything astronomy!<br>
 •  RaspberryPi projects<br>
 
