@@ -11,6 +11,8 @@ Hi, I'm Max! I'm an graduate student studying Physics & Astrophysics at the Univ
 👯 I’m looking to collaborate on<br>
 •  Anything astronomy!<br>
 •  RaspberryPi projects<br>
+•  Open Science & Educational Projects<br>
+
 
 💬 Ask me anything!<br> 
 
