@@ -16,8 +16,6 @@ Hi, I'm Max! I'm an graduate student studying Physics & Astrophysics at the Univ
 
 💬 Ask me anything!<br> 
 
-💸 Buy me a coffee:<br> 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/afinemax) 
 
 
 
@@ -31,13 +29,15 @@ Hi, I'm Max! I'm an graduate student studying Physics & Astrophysics at the Univ
 
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/afinemax)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=afinemax&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+-->
+📊 GitHub Stats: <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=afinemax&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=afinemax&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+💸 Buy me a coffee:<br> 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/afinemax) 
 
 
+<!--
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
