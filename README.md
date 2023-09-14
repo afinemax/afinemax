@@ -1,3 +1,5 @@
+<!-- steelblue, alpha=0.5, firebrick, orchid --> 
+
 # 🧙‍♂️🐚📡💫 
 # Welcome to My GitHub Profile!
 
