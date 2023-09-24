@@ -3,7 +3,7 @@
 # 🧙‍♂️🐚📡💫 
 # Welcome to My GitHub Profile!
 
-My name is Max Fine. I'm a graduate student studying Physics & Astrophysics at the University of Amsterdam. I earned my undergraduate degree from the University of Toronto (with honors)  in Canada! I am originally from St. Augustine, Florida. I'm passionate about exploring the unknown, improving our understanding of the cosmos, and adding to the collective knowledge of humankind. I believe that science has the power to change the world and I'm eager to contribute to that change in any way I can.<br> 
+My name is Max Fine. I'm a graduate student studying Physics & Astrophysics at the University of Amsterdam. I earned my undergraduate degree from the University of Toronto (with Honors)  in Canada! I am originally from St. Augustine, Florida. I'm passionate about exploring the unknown, improving our understanding of the cosmos, and adding to the collective knowledge of humankind. I believe that science has the power to change the world and I'm eager to contribute to that change in any way I can.<br> 
 
 I am Highly proficient in Linux, git, data analysis, and fluent in Python programming, specializing in packages such as numpy, scipy, matplotlib, pytorch, pandas, RM-TOOLS, and astropy. I am skilled in data analysis, time-series analysis, algorithm development, and scientific computing. I have contributed significantly to the open-source scientific Python package RM-TOOLS, resulting in a published scientific paper.
 
