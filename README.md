@@ -6,9 +6,7 @@
 My name is Max Fine. I'm a graduate student studying Physics & Astrophysics at the University of Amsterdam. I earned my undergraduate degree from the University of Toronto (with Honors)  in Canada! I am originally from St. Augustine, Florida. I'm passionate about exploring the unknown, improving our understanding of the cosmos, and adding to the collective knowledge of humankind. I believe that science has the power to change the world and I'm eager to contribute to that change in any way I can.<br> 
 
 I have a keen interest in radio astronomy and multimessenger astronomy. I am interested in scientific
-data processing with a potential inclination toward instrumentation, whether I am actively searching
-for celestial objects as an observational astronomer or delving into the intricacies of data processing.
-My background includes experience in algorithm development for radio astronomy, error testing a data
+data processing with a potential inclination toward instrumentation. My background includes experience in algorithm development for radio astronomy, error testing a data
 analysis pipeline, and dedicated research in Fast Radio Burst (FRB) and multimessenger astronomy.
 Furthermore, I am interested in the application of machine learning in astrophysics. Additionally, my
 curiosity extends to the realms of exoplanets and astrobiology. I care deeply about science
