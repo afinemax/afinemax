@@ -1,6 +1,7 @@
 <!-- steelblue, alpha=0.5, firebrick, orchid --> 
 
 # 🧙‍♂️🐚📡💫 
+# 🔗 Check out my personal website [here!](https://afinemax.github.io/afinemax1/) <br> 
 # Welcome to My GitHub Profile!
 
 My name is Max Fine. I'm a graduate student studying Physics & Astrophysics at the University of Amsterdam. I earned my undergraduate degree from the University of Toronto (with Honors)  in Canada! I am originally from St. Augustine, Florida. I'm passionate about exploring the unknown, improving our understanding of the cosmos, and adding to the collective knowledge of humankind. I believe that science has the power to change the world and I'm eager to contribute to that change in any way I can.<br> 
@@ -18,7 +19,6 @@ I am highly skilled in <code>Linux</code> and <code>Git</code>, and I am fluent 
 
 While I currently live in the Netherlands, I hold dual citizenship in the USA and Canada, which enables me to work & live in both countries.  As a UofT graduate, I additionally qualify for the High Potential Individual visa (UK work visa).  
 
-🔗 Check out my personal website [here!](https://afinemax.github.io/afinemax1/) <br> 
 
 <!--
 🔭 I’m currently working on:<br>
