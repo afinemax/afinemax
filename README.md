@@ -4,6 +4,9 @@
 # 🔗 Check out my personal website [here!](https://afinemax.github.io/afinemax1/) <br> 
 # Welcome to My GitHub Profile!
 
+🔭 I’m currently working on:<br>
+•  Hunting for Fast Radio Bursts (FRBs) with the 25-m Dwingeloo radio telescope at ASTRON, the Netherlands 🇳🇱
+
 My name is Max Fine. I'm a graduate student studying Physics & Astrophysics at the University of Amsterdam. I earned my undergraduate degree from the University of Toronto (with Honors)  in Canada! I am originally from St. Augustine, Florida. I'm passionate about exploring the unknown, improving our understanding of the cosmos, and adding to the collective knowledge of humankind. I believe that science has the power to change the world and I'm eager to contribute to that change in any way I can.<br> 
 
 I have a keen interest in radio astronomy and multimessenger astronomy. I am interested in scientific
