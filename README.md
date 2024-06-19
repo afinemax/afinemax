@@ -33,7 +33,6 @@ While I currently live in the Netherlands, I hold dual citizenship in the USA an
 •  Anything astronomy!<br>
 •  RaspberryPi projects<br>
 •  Data Science projets<br>
-•  Robotics, renewable energy, or futuristic industries for solar companies, bicycle companies, agricultural tasks <br>
 •  Open Science & Educational Projects<br>
 
 
