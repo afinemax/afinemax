@@ -3,7 +3,7 @@
 # 🧙‍♂️🐚📡💫 
 # 🔗 Check out my personal website [here!](https://afinemax.github.io/afinemax1/) <br> 
 
- ### 🔭 I’m currently working on:<br>
+ ## 🔭 I’m currently working on:<br>
  ### •  Hunting for Fast Radio Bursts (FRBs) with the 25-m Dwingeloo radio telescope at ASTRON, the Netherlands 🇳🇱 📡
  ### • Check out the Project Repo [Here](https://github.com/afinemax/Astron_2024)
  
