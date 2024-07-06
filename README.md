@@ -21,6 +21,12 @@ I am highly skilled in <code>Python</code>, <code>Linux</code> and <code>Git</co
 
 While I currently live in the Netherlands, I hold dual citizenship in the USA and Canada, which enables me to work & live in both countries.  As a UofT graduate, I additionally qualify for the High Potential Individual visa (UK work visa).  
 
+When I'm not studying the stars, you can often find me exploring cafes and searching for the perfect latte. If it is not raining, playing frisbee in a park. I enjoy reading and tickering with Raspberry Pis.
+
+My dream is to live the adventurous life of a scientific researcher. I would like to earn a PhD in radio astronomy related to FRBs, and serve in the Peace Corps teaching high school math and science for two years abroad.
+
+
+
 
 <!--
 🔭 I’m currently working on:<br>
