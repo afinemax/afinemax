@@ -55,11 +55,12 @@ My dream is to live the adventurous life of a scientific researcher. I would lik
 
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/afinemax)
--->
+
 📊 GitHub Stats: <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=afinemax&theme=dark&hide_border=true)<br/>
 
 ![](https://komarev.com/ghpvc/?username=afinemax&color=blueviolet)
+-->
 
 💸 Buy me a coffee:<br> 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/afinemax) 
