@@ -20,6 +20,8 @@ My dream is to live the adventurous life of a scientific researcher. I would lik
 
 On the left is me with the other summer students at ASTRON this summer, the real adventure is the friends we make along the way! On the right is a photo of me operating the 25m Dwingeloo Radio Telescope, which I used for my research project. 
 
+
+<!--
 <table>
   <tr>
     <td style="text-align: center;">
@@ -30,6 +32,7 @@ On the left is me with the other summer students at ASTRON this summer, the real
     </td>
   </tr>
 </table>
+-->
 
 ### Interests:
 
@@ -43,7 +46,7 @@ community. <br>
 
 
 ### Skills:
-I am highly skilled in <code>Python</code>, <code>Linux</code> and <code>Git</code>, specializing in packages such as <code>Numpy</code>, <code>Scipy</code>, <code>Matplotlib</code>, <code>Pytorch</code>, <code>Pandas</code>, <code>Scikit-Learn</code>, <code>RM-TOOLS</code>, and <code>Astropy</code>. I am skilled in data analysis, Bayesian analysis, time-series analysis, algorithm development, Fourier analysis, signal processing, machine learning, deep learning, big data (Tb Scale), <code> Bash</code>, <code>Docker</code>, cloud computing, and scientific computing. I have contributed significantly to the open-source scientific <code>Python</code> package <code>RM-TOOLS</code>, resulting in a published first author [scientific paper in the Monthly Notices of the Royal Astronomy Society](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.4822F/abstract). I am additionally experienced in:  <code> C++</code>, <code>SQL</code>, <code>AWS</code>, <code>Kubernetes</code>,<br>
+I am highly skilled in <code>Python</code>, <code>Linux</code>, specializing in packages such as <code>Numpy</code>, <code>Scipy</code>, <code>Matplotlib</code>, <code>Pytorch</code>, <code>Pandas</code>, <code>Scikit-Learn</code>, <code>RM-TOOLS</code>, and <code>Astropy</code>. I am skilled in data analysis, Bayesian analysis, time-series analysis, algorithm development, Fourier analysis, signal processing, machine learning, deep learning, big data (Tb Scale), <code> Bash</code>, <code>Docker</code>, <code>Git</code>, cloud computing, and scientific computing. I have contributed significantly to the open-source scientific <code>Python</code> package <code>RM-TOOLS</code>, resulting in a published first author [scientific paper in the Monthly Notices of the Royal Astronomy Society](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.4822F/abstract). I am additionally experienced in:  <code> C++</code>, <code>SQL</code>, <code>AWS</code>, <code>Kubernetes</code>.<br>
 
 
 
@@ -53,14 +56,14 @@ I am highly skilled in <code>Python</code>, <code>Linux</code> and <code>Git</co
 •  Searching for Gamma-rays from FRBs using SWIFT/BAT & GUANO
 -->
 
-### 👯 I’m looking to collaborate on:<br>
+### I’m looking to collaborate on:<br>
 •  Anything astronomy!<br>
 •  RaspberryPi projects<br>
 •  Data Science projets<br>
 •  Open Science & Educational Projects<br>
 
 
-###  💬 Ask me anything!<br> 
+###  Ask me anything!<br> 
 
 
 
