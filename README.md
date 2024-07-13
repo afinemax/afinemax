@@ -18,10 +18,12 @@ When I'm not studying the stars, you can often find me exploring cafes and searc
 
 My dream is to live the adventurous life of a scientific researcher. I would like to earn a PhD in radio astronomy related to FRBs, and serve in the Peace Corps teaching high school math and science for two years abroad.
 
-On the left is me with the other summer students at ASTRON this summer, the real adventure is the friends we make along the way! On the right is a photo of me operating the 25m Dwingeloo Radio Telescope, which I used for my research project. 
 
 
 <!--
+
+On the left is me with the other summer students at ASTRON this summer, the real adventure is the friends we make along the way! On the right is a photo of me operating the 25m Dwingeloo Radio Telescope, which I used for my research project. 
+
 <table>
   <tr>
     <td style="text-align: center;">
