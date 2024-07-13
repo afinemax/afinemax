@@ -19,6 +19,19 @@ When I'm not studying the stars, you can often find me exploring cafes and searc
 My dream is to live the adventurous life of a scientific researcher. I would like to earn a PhD in radio astronomy related to FRBs, and serve in the Peace Corps teaching high school math and science for two years abroad.
 
 
+
+
+
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://afinemax.github.io/afinemax1/astron_summer_2024_photos/IMG_20240705_104342.jpg" alt="The real adventure is the friends you make along the way" width="500">
+    </td>
+    <td style="text-align: center;">
+      <img src="https://afinemax.github.io/afinemax1/images/max_25m_1.jpg" alt="Me at ESA HQ" height="375">
+    </td>
+  </tr>
+</table>
 ### Interests:
 
 I have a keen interest in radio astronomy and multimessenger astronomy, with a focus on studying Fast Radio Bursts (FRBs). I have a keen interested in studying Fast Radio Bursts (FRBs) both in finding them, and using them to study the cosmos, IE FRBs and Cosmology. I am addtionally interested in scientific
