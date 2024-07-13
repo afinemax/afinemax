@@ -39,7 +39,7 @@ I am highly skilled in <code>Python</code>, <code>Linux</code> and <code>Git</co
 •  Searching for Gamma-rays from FRBs using SWIFT/BAT & GUANO
 -->
 
-### 👯 I’m looking to collaborate on<br>
+### 👯 I’m looking to collaborate on:<br>
 •  Anything astronomy!<br>
 •  RaspberryPi projects<br>
 •  Data Science projets<br>
