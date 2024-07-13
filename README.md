@@ -36,10 +36,12 @@ On the left is me with the other summer students at ASTRON this summer, the real
 </table>
 -->
 
-### Interests:
+### Research Interests:
+
+
 
 I have a keen interest in radio astronomy and multimessenger astronomy, with a focus on studying Fast Radio Bursts (FRBs). I have a keen interested in studying Fast Radio Bursts (FRBs) both in finding them, and using them to study the cosmos, IE FRBs and Cosmology. I am addtionally interested in scientific
-data processing, software, and algorithim development. Furthermore, I am interested in the application of machine learning techniques in astronomy. 
+data processing, software, and algorithim development IE data science for astronomy.
 
 My research background includes Hunting Fast Radio Burst (FRB) using the [25m Dwingeloo Radio Telescope](https://www.astron.nl/), algorithm development for radio polarization astronomy surveys, error testing a data
 analysis pipeline, and Hunting FRBs with multimessenger astronomy using the [Swift/Bat space telescope](https://swift.gsfc.nasa.gov/about_swift/bat_desc.html). I care deeply about science
