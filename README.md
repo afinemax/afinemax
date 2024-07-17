@@ -49,7 +49,7 @@ analysis pipeline, and Hunting FRBs with multimessenger astronomy using the [Swi
 [**Maxwell A. Fine** , Cameron L. Van Eck, & Luke Pratley “Correcting Bandwidth Depolarization by Extreme Faraday Rotation”, Monthly Notices of the Royal Astronomical Society 2023.](https://arxiv.org/abs/2302.03134)
 
 
-### Skills:
+### Technical Skills:
 I am highly skilled in <code>Python</code>, <code>Linux</code>, specializing in packages such as <code>Numpy</code>, <code>Scipy</code>, <code>Matplotlib</code>, <code>Pytorch</code>, <code>Pandas</code>, <code>Scikit-Learn</code>, <code>RM-TOOLS</code>, and <code>Astropy</code>. I am skilled in data analysis, Bayesian analysis, time-series analysis, algorithm development, Fourier analysis, signal processing, machine learning, deep learning, big data (Tb Scale), <code> Bash</code>, <code>Docker</code>, <code>Git</code>, cloud computing, and scientific computing. I have contributed significantly to the open-source scientific <code>Python</code> package <code>RM-TOOLS</code>, resulting in a published first author [scientific paper in the Monthly Notices of the Royal Astronomy Society](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.4822F/abstract). I am additionally experienced in:  <code> C++</code>, <code>SQL</code>, <code>AWS</code>, <code>Kubernetes</code>.<br>
 
 
