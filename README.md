@@ -34,7 +34,7 @@ My dream is to live the adventurous life of a scientific researcher. I would lik
   </tr>
 </table>
 
-On the left is me standing by the 25-m Dwingeloo Radio Telescope (DRT) at ASTRON, and the right is me with the oter summer ASTRON/JIVE summer interns at the European Space Agency (ESA) head quaters.
+On the left is me standing by the 25-m Dwingeloo Radio Telescope (DRT) at ASTRON, and the right is me with the other 2024 ASTRON/JIVE interns at the European Space Agency (ESA).
 
 
 
