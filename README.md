@@ -9,7 +9,12 @@
  
 
 
+
 ### About Me:
+
+
+
+
 My name is Max Fine. I'm a graduate student studying Physics & Astrophysics at the University of Amsterdam. This summer, I am working at Astron. I earned my undergraduate degree from the University of Toronto (with Honors)  in Canada! I am originally from St. Augustine, Florida. I'm passionate about exploring the unknown, improving our understanding of the cosmos, and adding to the collective knowledge of humankind. I believe that science has the power to change the world and I'm eager to contribute to that change in any way I can.<br> 
 
 While I currently live in the Netherlands, I hold dual citizenship in the USA and Canada, which enables me to work & live in both countries.  As a UofT graduate, I additionally qualify for the High Potential Individual visa (UK work visa).  
@@ -17,6 +22,19 @@ While I currently live in the Netherlands, I hold dual citizenship in the USA an
 When I'm not studying the stars, you can often find me exploring cafes and searching for the perfect latte. If it is not raining, playing frisbee in a park. I enjoy reading and tickering with Raspberry Pis.
 
 My dream is to live the adventurous life of a scientific researcher. I would like to earn a PhD in radio astronomy related to FRBs, and serve in the Peace Corps teaching high school math and science for two years abroad.
+
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://afinemax.github.io/afinemax1/astron_summer_2024_photos/instagram_cropped_01.jpg"  width="500">
+    </td>
+    <td style="text-align: center;">
+      <img src="https://afinemax.github.io/afinemax1/astron_summer_2024_photos/instagram_cropped_02.jpg"  width="500">
+    </td>
+  </tr>
+</table>
+
+On the left is me standing by the 25-m Dwingeloo Radio Telescope (DRT) at ASTRON, and the right is me with the oter summer ASTRON/JIVE summer interns at the European Space Agency (ESA) head quaters.
 
 
 
