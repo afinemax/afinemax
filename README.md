@@ -40,10 +40,10 @@ On the left is me with the other summer students at ASTRON this summer, the real
 
 
 
-I have a keen interest in Fast Radio Bursts, both in finding them, and using them to study the cosmos. I am further interested in data science for radio astronomy - including algorithm, software development, and machine learning.
+I have a keen interest in Fast Radio Bursts, both in finding them, and using them to study the cosmos. I am further interested in data science for radio & multimessenger astronomy - including algorithm, software development, and machine learning. I think finding exoplanets, and Gravitational Wave astronomy is neat. 
 
-My research background includes Hunting Fast Radio Burst (FRB) using the [25m Dwingeloo Radio Telescope](https://www.astron.nl/), algorithm development for radio polarization astronomy surveys, error testing a data
-analysis pipeline, and Hunting FRBs with multimessenger astronomy using the [Swift/Bat space telescope](https://swift.gsfc.nasa.gov/about_swift/bat_desc.html). <br> 
+My research background includes Hunting Fast Radio Burst (FRB) using the [25m Dwingeloo Radio Telescope](https://www.astron.nl/), algorithm development for studying rotation measure (used to study magnetic fields in space), error testing a data
+analysis pipeline for Polarization Sky Survey of the Universe's Magnetism (POSSUM), and Hunting FRBs with multimessenger astronomy using the X-ray space telescope [Swift/Bat space telescope](https://swift.gsfc.nasa.gov/about_swift/bat_desc.html). <br> 
 
 ### Publications:
 [**Maxwell A. Fine** , Cameron L. Van Eck, & Luke Pratley “Correcting Bandwidth Depolarization by Extreme Faraday Rotation”, Monthly Notices of the Royal Astronomical Society 2023.](https://arxiv.org/abs/2302.03134)
