@@ -15,7 +15,7 @@
 
 
 
-My name is Max Fine. I'm a graduate student studying Physics & Astrophysics at the University of Amsterdam. This summer, I am working at Astron. I earned my undergraduate degree from the University of Toronto (with Honors)  in Canada! I am originally from St. Augustine, Florida. I'm passionate about exploring the unknown, improving our understanding of the cosmos, and adding to the collective knowledge of humankind. I believe that science has the power to change the world and I'm eager to contribute to that change in any way I can.<br> 
+My name is Max Fine. I'm a graduate student studying Physics & Astrophysics at the University of Amsterdam. This summer, I am working at Astron. I earned my undergraduate degree from the University of Toronto (with Honors)  in Canada! I am originally from St. Augustine, Florida. 
 
 While I currently live in the Netherlands, I hold dual citizenship in the USA and Canada, which enables me to work & live in both countries.  As a UofT graduate, I additionally qualify for the High Potential Individual visa (UK work visa).  
 
