@@ -1,21 +1,23 @@
 <!-- steelblue, alpha=0.5, firebrick, orchid --> 
 
-# 🧙‍♂️🐚📡💫 
+# Astronomy Is Looking Up! 🧙‍♂️🐚📡💫 
 # 🔗 Check out my personal website [Here!](https://afinemax.github.io/afinemax1/) <br> 
 
 
  ### 🔭 I’m currently working on:<br>
-  •  Utilizing the 25m Dwingeloo Radio Telescope (DRT) to Study Fast Radio Bursts (FRBs) at ASTRON, the Netherlands 🇳🇱 📡 [Project Repo](https://github.com/afinemax/Astron_2024)
+  • Investigating the local environments of Fast Radio Bursts (FRBs), This is my masters thesis project at the University of Amsterdam. 🇳🇱 📡
  
+  
+
+  ### ✅  Projects :<br>
+  •  Utilizing the 25m Dwingeloo Radio Telescope (DRT) to Study Fast Radio Bursts (FRBs) at ASTRON, the Netherlands 🇳🇱 📡 [Project Repo](https://github.com/afinemax/Astron_2024) <br>
+•  Mastodon bot to post daily North Atlantic & Antartic Sea Ice Data [Project Repo](https://github.com/afinemax/climate_change_bot) 
 
 
 
 ### About Me:
 
-
-
-
-My name is Max Fine. I'm a graduate student studying Physics & Astrophysics at the University of Amsterdam. This summer, I am working at Astron. I earned my undergraduate degree from the University of Toronto (with Honors)  in Canada! I am originally from St. Augustine, Florida. 
+My name is Max Fine. I'm a graduate student studying Physics & Astrophysics at the University of Amsterdam. I am a member of the [Astro Flash](https://astroflash-frb.github.io/) research group at the University of Amsterdam. This past summer, I worked at Astron - the Dutch Radio astronomy institute. I earned my undergraduate degree from the University of Toronto (with Honors)  in Canada! I am originally from St. Augustine, Florida. 
 
 While I currently live in the Netherlands, I hold dual citizenship in the USA and Canada, which enables me to work & live in both countries.  As a UofT graduate, I additionally qualify for the High Potential Individual visa (UK work visa).  
 
@@ -68,7 +70,7 @@ analysis pipeline for [Polarization Sky Survey of the Universe's Magnetism (POSS
 
 
 ### Technical Skills:
-I am highly skilled in <code>Python</code>, <code>Linux</code>, specializing in packages such as <code>Numpy</code>, <code>Scipy</code>, <code>Matplotlib</code>, <code>Pytorch</code>, <code>Pandas</code>, <code>Scikit-Learn</code>, <code>RM-TOOLS</code>, and <code>Astropy</code>. I am skilled in data analysis, Bayesian analysis, time-series analysis, algorithm development, Fourier analysis, signal processing, machine learning, deep learning, big data (Tb Scale), <code> Bash</code>, <code>Docker</code>, <code>Git</code>, cloud computing, and scientific computing. I have contributed significantly to the open-source scientific <code>Python</code> package <code>RM-TOOLS</code>, resulting in a published first author [scientific paper in the Monthly Notices of the Royal Astronomy Society](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.4822F/abstract). I am additionally experienced in:  <code> C++</code>, <code>SQL</code>, <code>AWS</code>, <code>Kubernetes</code>.<br>
+I am highly skilled in <code>Python</code>, <code>Linux</code>, specializing in packages such as <code>Numpy</code>, <code>Scipy</code>, <code>Matplotlib</code>, <code>Pytorch</code>, <code>Pandas</code>, <code>Scikit-Learn</code>, <code>RM-TOOLS</code>, and <code>Astropy</code>. I am skilled in data analysis, Bayesian analysis, time-series analysis, algorithm development, Fourier analysis, signal processing, machine learning, deep learning, big data (Tb Scale), <code> Bash</code>, <code>Docker</code>, <code>Git</code>, cloud computing, RaspberryPi, and scientific computing. I have contributed significantly to the open-source scientific <code>Python</code> package <code>RM-TOOLS</code>, resulting in a published first author [scientific paper in the Monthly Notices of the Royal Astronomy Society](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.4822F/abstract). I am additionally experienced in:  <code> C++</code>, <code>SQL</code>, <code>AWS</code>, <code>Kubernetes</code>.<br>
 
 
 
