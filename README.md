@@ -5,7 +5,7 @@
 
 
  ### 🔭 I’m currently working on:<br>
-  •  Hunting for Fast Radio Bursts (FRBs) with the 25-m Dwingeloo Radio Telescope (DRT) at ASTRON, the Netherlands 🇳🇱 📡 [Project Repo](https://github.com/afinemax/Astron_2024)
+  •  Utilizing the 25m Dwingeloo Radio Telescope (DRT) to Study Fast Radio Bursts (FRBs) at ASTRON, the Netherlands 🇳🇱 📡 [Project Repo](https://github.com/afinemax/Astron_2024)
  
 
 
