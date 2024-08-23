@@ -9,7 +9,7 @@
  
   
 
-  ### ✅  Projects :<br>
+  ### Previous Projects :<br>
   •  Utilizing the 25m Dwingeloo Radio Telescope (DRT) to Study Fast Radio Bursts (FRBs) at ASTRON, the Netherlands 🇳🇱 📡 [Project Repo](https://github.com/afinemax/Astron_2024) <br>
 •  Mastodon bot to post daily North Atlantic & Antartic Sea Ice Data [Project Repo](https://github.com/afinemax/climate_change_bot) 
 
