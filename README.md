@@ -12,7 +12,7 @@
   ### Other Projects:<br>
   •  Utilizing the 25m Dwingeloo Radio Telescope (DRT) to Study Fast Radio Bursts (FRBs) at ASTRON, the Netherlands 🇳🇱 📡 [Project Repo](https://github.com/afinemax/Astron_2024) <br>
 •  Mastodon bot to post daily North Atlantic & Antartic Sea Ice Data 🌎 🔥[Project Repo](https://github.com/afinemax/climate_change_bot) <br>
-• Searching for and placing Gamma-ray fluence limits on Fast Radio Bursts (FRBs) using Swift/Bat and CHIME ⚡ 🛰️ [Project Repo](https://github.com/afinemax/swift-bat) <br> 
+• Searching for and placing Gamma-ray fluence limits on Fast Radio Bursts (FRBs) using Swift/Bat space-based telescope and ground-based radio telescope CHIME ⚡ 🛰️ [Project Repo](https://github.com/afinemax/swift-bat) <br> 
 
 
 ### About Me:
