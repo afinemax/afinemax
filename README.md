@@ -17,7 +17,7 @@
 
 ### About Me:
 
-My name is Max Fine. I'm a graduate student studying Physics & Astrophysics at the University of Amsterdam. I am a member of the [Astro Flash](https://astroflash-frb.github.io/) research group at the University of Amsterdam. This past summer, I worked at Astron - the Dutch Radio astronomy institute. I earned my undergraduate degree from the University of Toronto (with Honors)  in Canada! I am originally from St. Augustine, Florida. 
+My name is Max Fine. I'm a graduate student studying Physics & Astrophysics at the University of Amsterdam. I am a member of the [Astro Flash](https://astroflash-frb.github.io/) research group at the University of Amsterdam, the [CHIME/FRB](https://www.chime-frb.ca/) collaboration, and [POSSUM](https://askap.org/possum/). This past summer, I worked at Astron - the Dutch Radio astronomy institute. I earned my undergraduate degree from the University of Toronto (with Honors)  in Canada! I am originally from St. Augustine, Florida. 
 
 While I currently live in the Netherlands, I hold dual citizenship in the USA and Canada, which enables me to work & live in both countries.  As a UofT graduate, I additionally qualify for the High Potential Individual visa (UK work visa).  
 
