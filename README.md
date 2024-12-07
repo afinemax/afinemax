@@ -60,7 +60,9 @@ On the left is me with the other summer students at ASTRON this summer, the real
 
 
 
-I have a keen interest in Fast Radio Bursts, both in finding them, and using them to study the cosmos. I am further interested in data science for radio & multimessenger astronomy - including algorithm, software development, and machine learning. I think finding exoplanets, and Gravitational Wave astronomy is neat. 
+I have a keen interest in Fast Radio Bursts, both in finding them, and using them to study the cosmos.  I have a broad interest in radio astronomy, technosignatures (SETI), astrophysical transients, pulsars, multi-messenger astronomy, observational cosmology, scintillation, radio polarization, cosmic magnetism, instrumentation. 
+
+I am further interested in data science for radio & multimessenger astronomy - including algorithm, software development, and machine learning. I think finding exoplanets, and Gravitational Wave astronomy is neat. 
 
 My research background includes Hunting Fast Radio Burst (FRB) using the [25m Dwingeloo Radio Telescope](https://www.astron.nl/), algorithm development for studying rotation measure (used to study magnetic fields in space), error testing a data
 analysis pipeline for [Polarization Sky Survey of the Universe's Magnetism (POSSUM)](https://askap.org/possum/), and Hunting FRBs with multimessenger astronomy using the [Swift/Bat X-ray space telescope](https://swift.gsfc.nasa.gov/about_swift/bat_desc.html). <br> 
@@ -70,8 +72,11 @@ analysis pipeline for [Polarization Sky Survey of the Universe's Magnetism (POSS
 
 
 ### Technical Skills:
-I am highly skilled in <code>Python</code>, <code>Linux</code>, specializing in packages such as <code>Numpy</code>, <code>Scipy</code>, <code>Matplotlib</code>, <code>Pytorch</code>, <code>Pandas</code>, <code>Scikit-Learn</code>, <code>RM-TOOLS</code>, and <code>Astropy</code>. I am skilled in data analysis, Bayesian analysis, time-series analysis, algorithm development, Fourier analysis, signal processing, machine learning, deep learning, big data (Tb Scale), <code> Bash</code>, <code>Docker</code>, <code>Git</code>, cloud computing, RaspberryPi, and scientific computing. I have contributed significantly to the open-source scientific <code>Python</code> package <code>RM-TOOLS</code>, resulting in a published first author [scientific paper in the Monthly Notices of the Royal Astronomy Society](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.4822F/abstract). I am additionally experienced in:  <code> C++</code>, <code>SQL</code>, <code>AWS</code>, <code>Kubernetes</code>.<br>
+I am highly skilled in <code>Python</code>, <code>Bash</code>, and <code>Linux</code>, with extensive experience using packages such as <code>Astropy</code>, <code>Fetch</code>, <code>HEAsoft</code>, <code>Matplotlib</code>, <code>Numpy</code>, <code>Pandas</code>, <code>Presto</code>, <code>Pytorch</code>, <code>RM-TOOLS</code>, <code>Scikit-Learn</code>, <code>Scipy</code>, <code>TensorFlow</code>, and <code>Xspec</code>. I have expertise in Bayesian analysis, time-series analysis, algorithm development, Convolutional Neural Networks (CNNs), Fourier analysis, signal processing, machine learning, deep learning, big data (Tb Scale), <code>Git</code>, <code>Docker</code>, and scientific computing.
 
+I have hands-on experience with <code>RaspberryPi</code> projects and moderate knowledge of <code>C++</code>, <code>Julia</code>, <code>SQL</code>, <code>Kubernetes</code>, cloud computing platforms such as <code>AWS</code>, and High-Performance Computing (HPC) environments. 
+
+I have contributed significantly to the open-source scientific <code>Python</code> package <code>RM-TOOLS</code>, resulting in a published first author [scientific paper in the Monthly Notices of the Royal Astronomy Society](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.4822F/abstract). 
 
 
 
