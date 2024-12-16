@@ -1,4 +1,4 @@
-<!-- steelblue, alpha=0.5, firebrick, orchid --> 
+<!-- steelblue, alpha=0.5, firebrick, orchid  https://colorbrewer2.org/#type=qualitative&scheme=Dark2&n=3 --> 
 
 # Astronomy Is Looking Up! 🧙‍♂️🐚📡💫 
 # 🔗 Check out my personal website [Here!](https://afinemax.github.io/afinemax1/) <br> 
