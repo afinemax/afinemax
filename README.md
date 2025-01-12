@@ -5,7 +5,7 @@
 
 
  ### 🔭 I’m currently working on:<br>
-  • Investigating the local environments of Fast Radio Bursts (FRBs), This is my masters thesis project at the University of Amsterdam. 🇳🇱 🇨🇦 📡 [(Private CHIME) Project Repo](https://github.com/CHIMEFRB/chime_repeaters_scintillation)
+  • Investigating the local environments of Fast Radio Bursts (FRBs), This is my masters thesis project at the University of Amsterdam. 🇳🇱 🇨🇦 📡 [(Private CHIME) Project Repo](https://github.com/CHIMEFRB/chime_repeaters_scintillation) <br>
  • A paint can radio telescope [Project Repo C.A.N.-Compact-Astronomy-Node](https://github.com/afinemax/C.A.N.-Compact-Astronomy-Node)
  
   
