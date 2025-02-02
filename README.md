@@ -2,7 +2,7 @@
 
 # Astronomy Is Looking Up! 🧙‍♂️🐚📡💫 
 # 🔗 Check out my personal website [Here!](https://afinemax.github.io/afinemax1/) <br> 
-# 🔗 [Personal Notes](https://github.com/afinemax/afinemax_notes)
+
 
 
  ### 🔭 I’m currently working on:<br>
