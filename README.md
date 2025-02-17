@@ -17,6 +17,10 @@
 • Searching for and placing Gamma-ray fluence limits on Fast Radio Bursts (FRBs) using Swift/Bat space-based telescope and ground-based radio telescope CHIME ⚡ 🛰️ [Project Repo](https://github.com/afinemax/swift-bat) <br> 
 
 
+### Hire Me! 
+I'm open to collaborations, research opportunities, and consulting in astronomy, data science, machine learning, and Python software development. If you're looking for someone with technical expertise, a strong research background, let's connect!
+
+
 ### About Me:
 
 My name is Max Fine. I'm a graduate student studying Physics & Astrophysics at the University of Amsterdam. I am a member of the [Astro Flash](https://astroflash-frb.github.io/) research group at the University of Amsterdam, the [CHIME/FRB](https://www.chime-frb.ca/) collaboration, and [POSSUM](https://askap.org/possum/). This past summer, I worked at Astron - the Dutch Radio astronomy institute. I earned my undergraduate degree from the University of Toronto (with Honors)  in Canada! I am originally from St. Augustine, Florida. 
