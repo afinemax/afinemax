@@ -18,7 +18,10 @@
 
 
 ### Hire Me! 
-I'm open to collaborations, research opportunities, and consulting in astronomy, data science, machine learning, and Python software development. If you're looking for someone with technical expertise, a strong research background, let's connect!
+I'm open to collaborations, research opportunities, and consulting in astronomy, data science, machine learning, quantative, and Python software development roles. If you're looking for someone with technical expertise, a strong research background, let's connect!
+- <a href="https://afinemax.github.io/afinemax1/afinemax_datascience_python_dev_cv.pdf" target="_blank">Industry CV</a>
+- <a href="https://afinemax.github.io/afinemax1/afinemax_resume.pdf" target="_blank">Academic CV</a>
+
 
 
 ### About Me:
