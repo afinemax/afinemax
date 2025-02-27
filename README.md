@@ -3,6 +3,8 @@
 # Astronomy Is Looking Up! 🧙‍♂️🐚📡💫 
 # 🔗 Check out my personal website [Here!](https://afinemax.github.io/afinemax1/) <br> 
 
+- Cheat Sheats are [here](https://github.com/afinemax/dev-reference/blob/master/git_commands.md)
+
 
 
  ### 🔭 I’m currently working on:<br>
