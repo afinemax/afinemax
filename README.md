@@ -1,7 +1,7 @@
 <!-- steelblue, alpha=0.5, firebrick, orchid  https://colorbrewer2.org/#type=qualitative&scheme=Dark2&n=3 --> 
 
 # Astronomy Is Looking Up! 🧙‍♂️🐚📡💫 
- 🔗 <a href="https://afinemax.github.io/afinemax1/afinemax_resume.pdf" target="_blank">Academic Resume</a> | 🔗 <a href="https://afinemax.github.io/afinemax1/afinemax_datascience_python_dev_cv.pdf" target="_blank">Industry Resume</a> 🔗 [Personal Website](https://afinemax.github.io/afinemax1/) | 🔗 [Reference Sheets](https://github.com/afinemax/dev-reference/) <br>
+ <a href="https://afinemax.github.io/afinemax1/afinemax_resume.pdf" target="_blank">Academic Resume</a> | <a href="https://afinemax.github.io/afinemax1/afinemax_datascience_python_dev_cv.pdf" target="_blank">Industry Resume</a> | [Personal Website](https://afinemax.github.io/afinemax1/) | [Reference Sheets](https://github.com/afinemax/dev-reference/) <br>
 
  ### 🔭 I’m currently working on:<br>
   • Investigating the local environments of Fast Radio Bursts (FRBs), This is my masters thesis project at the University of Amsterdam. 🇳🇱 🇨🇦 📡 [(Private CHIME) Project Repo](https://github.com/CHIMEFRB/chime_repeaters_scintillation) <br>
