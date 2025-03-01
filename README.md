@@ -1,7 +1,7 @@
 <!-- steelblue, alpha=0.5, firebrick, orchid  https://colorbrewer2.org/#type=qualitative&scheme=Dark2&n=3 --> 
 
 # Astronomy Is Looking Up! 🧙‍♂️🐚📡💫 
- 🔗 [Personal Website](https://afinemax.github.io/afinemax1/) | 🔗 [Reference Sheets](https://github.com/afinemax/dev-reference/) <br>
+ 🔗 <a href="https://afinemax.github.io/afinemax1/afinemax_resume.pdf" target="_blank">Academic Resume</a> | 🔗 <a href="https://afinemax.github.io/afinemax1/afinemax_datascience_python_dev_cv.pdf" target="_blank">Industry Resume</a> 🔗 [Personal Website](https://afinemax.github.io/afinemax1/) | 🔗 [Reference Sheets](https://github.com/afinemax/dev-reference/) <br>
 
  ### 🔭 I’m currently working on:<br>
   • Investigating the local environments of Fast Radio Bursts (FRBs), This is my masters thesis project at the University of Amsterdam. 🇳🇱 🇨🇦 📡 [(Private CHIME) Project Repo](https://github.com/CHIMEFRB/chime_repeaters_scintillation) <br>
@@ -13,13 +13,6 @@
   •  Utilizing the 25m Dwingeloo Radio Telescope (DRT) to Study Fast Radio Bursts (FRBs) at ASTRON, the Netherlands 🇳🇱 📡 [Project Repo](https://github.com/afinemax/Astron_2024) <br>
 •  Mastodon bot to post daily North Atlantic & Antartic Sea Ice Data 🌎 🔥[Project Repo](https://github.com/afinemax/climate_change_bot) <br>
 • Searching for and placing Gamma-ray fluence limits on Fast Radio Bursts (FRBs) using Swift/Bat space-based telescope and ground-based radio telescope CHIME ⚡ 🛰️ [Project Repo](https://github.com/afinemax/swift-bat) <br> 
-
-
-### Hire Me! 
-I'm open to collaborations, research opportunities, and consulting in astronomy, data science, machine learning, quantative, and Python software development roles. If you're looking for someone with technical expertise, a strong research background, let's connect!
-- <a href="https://afinemax.github.io/afinemax1/afinemax_datascience_python_dev_cv.pdf" target="_blank">Industry CV</a>
-- <a href="https://afinemax.github.io/afinemax1/afinemax_resume.pdf" target="_blank">Academic CV</a>
-
 
 
 ### About Me:
