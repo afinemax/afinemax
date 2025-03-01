@@ -2,10 +2,7 @@
 
 # Astronomy Is Looking Up! 🧙‍♂️🐚📡💫 
 # 🔗 Check out my personal website [Here!](https://afinemax.github.io/afinemax1/) <br> 
-
-- Cheat Sheats are [here](https://github.com/afinemax/dev-reference/)
-
-
+# 🔗 Reference Sheets are [here](https://github.com/afinemax/dev-reference/) <br>
 
  ### 🔭 I’m currently working on:<br>
   • Investigating the local environments of Fast Radio Bursts (FRBs), This is my masters thesis project at the University of Amsterdam. 🇳🇱 🇨🇦 📡 [(Private CHIME) Project Repo](https://github.com/CHIMEFRB/chime_repeaters_scintillation) <br>
