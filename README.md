@@ -3,27 +3,22 @@
 # Astronomy Is Looking Up! 🧙‍♂️🐚📡💫 
  <a href="https://afinemax.github.io/afinemax1/afinemax_resume.pdf" target="_blank">Academic Resume</a> | <a href="https://afinemax.github.io/afinemax1/afinemax_datascience_python_dev_cv.pdf" target="_blank">Industry Resume</a> | [Personal Website](https://afinemax.github.io/afinemax1/) | [Reference Sheets](https://github.com/afinemax/dev-reference/) <br>
 
- ### 🔭 I’m currently working on:<br>
-  • Investigating the local environments of Fast Radio Bursts (FRBs), This is my masters thesis project at the University of Amsterdam. 🇳🇱 🇨🇦 📡 [(Private CHIME) Project Repo](https://github.com/CHIMEFRB/chime_repeaters_scintillation) <br>
- • A paint can radio telescope [Project Repo C.A.N.-Compact-Astronomy-Node](https://github.com/afinemax/C.A.N.-Compact-Astronomy-Node)
- 
-  
+---
 
-  ### Other Projects:<br>
-  •  Utilizing the 25m Dwingeloo Radio Telescope (DRT) to Study Fast Radio Bursts (FRBs) at ASTRON, the Netherlands 🇳🇱 📡 [Project Repo](https://github.com/afinemax/Astron_2024) <br>
-•  Mastodon bot to post daily North Atlantic & Antartic Sea Ice Data 🌎 🔥[Project Repo](https://github.com/afinemax/climate_change_bot) <br>
-• Searching for and placing Gamma-ray fluence limits on Fast Radio Bursts (FRBs) using Swift/Bat space-based telescope and ground-based radio telescope CHIME ⚡ 🛰️ [Project Repo](https://github.com/afinemax/swift-bat) <br> 
+### 🔭 Projects & Research  
+- 📡 **Scintillation of repeating Fast Radio Bursts (FRBs)** — My MSc thesis at the University of Amsterdam explores how FRBs twinkle, [(Private CHIME project repo, private)](https://github.com/CHIMEFRB/chime_repeaters_scintillation).  
+- 🛰️ **Multiwavelength search for FRBs** — searched for with gamma-ray counter parts of FRBS using CHIME & Swift/BAT satellite. [Repo](https://github.com/afinemax/swift-bat)  
+- 🧲 **Correcting extreme Faraday rotation** — Method for correcting intrachannel bandwidth depolarization, implemented into [RM-Tools(Repo)](https://github.com/CIRADA-Tools/RM-Tools). [MNRAS Fine et al 2023 (paper)](https://arxiv.org/abs/2302.03134) 
+- 🛠️ **DIY Radio Astronomy** — Building a functioning paint-can radio telescope. [Project Repo](https://github.com/afinemax/C.A.N.-Compact-Astronomy-Node)  
+- 🌍 **Climate data bot** — Built a Mastodon bot to post daily Antarctic and North Atlantic sea ice data. [Repo](https://github.com/afinemax/climate_change_bot)  
+- 📡 **FRBs with the 25m Dwingeloo Radio Telescope** — Built a real-time FRB dection pipeline for the 25M radio telescope, and detected a real burst during summer 2024 internship at ASTRON. [Project Repo](https://github.com/afinemax/Astron_2024)
 
+---
 
 ### About Me:
 
-My name is Max Fine. I'm a graduate student studying Physics & Astrophysics at the University of Amsterdam. I am a member of the [Astro Flash](https://astroflash-frb.github.io/) research group at the University of Amsterdam, the [CHIME/FRB](https://www.chime-frb.ca/) collaboration, and [POSSUM](https://askap.org/possum/). This past summer, I worked at Astron - the Dutch Radio astronomy institute. I earned my undergraduate degree from the University of Toronto (with Honors)  in Canada! I am originally from St. Augustine, Florida. 
+My name is Max Fine. I'm a graduate student studying Physics & Astrophysics at the University of Amsterdam. I am a member of the [Astro Flash](https://astroflash-frb.github.io/) research group at the University of Amsterdam, the [CHIME/FRB](https://www.chime-frb.ca/) collaboration. When I'm not studying the stars, you can often find me exploring cafes and searching for the perfect latte. If it is not raining, playing frisbee in a park. I enjoy reading and tickering with Raspberry Pis.
 
-While I currently live in the Netherlands, I hold dual citizenship in the USA and Canada, which enables me to work & live in both countries.  As a UofT graduate, I additionally qualify for the High Potential Individual visa (UK work visa).  
-
-When I'm not studying the stars, you can often find me exploring cafes and searching for the perfect latte. If it is not raining, playing frisbee in a park. I enjoy reading and tickering with Raspberry Pis.
-
-My dream is to live the adventurous life of a scientific researcher. I would like to earn a PhD in radio astronomy related to FRBs, and serve in the Peace Corps teaching high school math and science for two years abroad.
 
 <table>
   <tr>
@@ -37,7 +32,7 @@ My dream is to live the adventurous life of a scientific researcher. I would lik
 </table>
 
 On the left is me standing by the 25-m Dwingeloo Radio Telescope (DRT) at ASTRON, and the right is me with the other 2024 ASTRON/JIVE interns at the European Space Agency (ESA).
-
+---
 
 
 <!--
@@ -55,22 +50,18 @@ On the left is me with the other summer students at ASTRON this summer, the real
   </tr>
 </table>
 -->
-
+---
 ### Research Interests:
 
+I have a keen interest in Fast Radio Bursts, both in finding them, and using them to study the cosmos.  I have a broad interest in radio astronomy, astrophysical transients, pulsars, multi-messenger astronomy, observational cosmology, scintillation, radio polarization, cosmic magnetism, instrumentation. I am further interested in data science for radio & multimessenger astronomy - including algorithm, software development, and machine learning. I think finding exoplanets, and Gravitational Wave astronomy is neat. 
 
 
-I have a keen interest in Fast Radio Bursts, both in finding them, and using them to study the cosmos.  I have a broad interest in radio astronomy, technosignatures (SETI), astrophysical transients, pulsars, multi-messenger astronomy, observational cosmology, scintillation, radio polarization, cosmic magnetism, instrumentation. 
-
-I am further interested in data science for radio & multimessenger astronomy - including algorithm, software development, and machine learning. I think finding exoplanets, and Gravitational Wave astronomy is neat. 
-
-My research background includes Hunting Fast Radio Burst (FRB) using the [25m Dwingeloo Radio Telescope](https://www.astron.nl/), algorithm development for studying rotation measure (used to study magnetic fields in space), error testing a data
-analysis pipeline for [Polarization Sky Survey of the Universe's Magnetism (POSSUM)](https://askap.org/possum/), and Hunting FRBs with multimessenger astronomy using the [Swift/Bat X-ray space telescope](https://swift.gsfc.nasa.gov/about_swift/bat_desc.html). <br> 
+---
 
 ### Publications:
 [**Maxwell A. Fine** , Cameron L. Van Eck, & Luke Pratley “Correcting Bandwidth Depolarization by Extreme Faraday Rotation”, Monthly Notices of the Royal Astronomical Society 2023.](https://arxiv.org/abs/2302.03134)
 
-
+<!--
 ### Technical Skills:
 I am highly skilled in <code>Python</code>, <code>Bash</code>, and <code>Linux</code>, with extensive experience using packages such as <code>Astropy</code>, <code>Fetch</code>, <code>HEAsoft</code>, <code>Matplotlib</code>, <code>Numpy</code>, <code>Pandas</code>, <code>Presto</code>, <code>Pytorch</code>, <code>RM-TOOLS</code>, <code>Scikit-Learn</code>, <code>Scipy</code>, <code>TensorFlow</code>, and <code>Xspec</code>. I have expertise in Bayesian analysis, time-series analysis, algorithm development, Convolutional Neural Networks (CNNs), Fourier analysis, signal processing, machine learning, deep learning, big data (Tb Scale), <code>Git</code>, <code>Docker</code>, and scientific computing.
 
@@ -84,16 +75,12 @@ I have contributed significantly to the open-source scientific <code>Python</cod
 🔭 I’m currently working on:<br>
 •  Searching for Gamma-rays from FRBs using SWIFT/BAT & GUANO
 -->
-
+---
 ### I’m looking to collaborate on:<br>
 •  Anything astronomy!<br>
 •  RaspberryPi projects<br>
 •  Data Science projets<br>
 •  Open Science & Educational Projects<br>
-
-
-###  Ask me anything!<br> 
-
 
 
 
