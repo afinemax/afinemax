@@ -5,9 +5,9 @@
 
 ---
 
-### 🔭 Projects & Research  
+### 🔭 Projects & Research:  
 - 📡 **Scintillation of repeating Fast Radio Bursts (FRBs)** — My MSc thesis at the University of Amsterdam explores how FRBs twinkle, [(Private CHIME project repo, private)](https://github.com/CHIMEFRB/chime_repeaters_scintillation).  
-- 🛰️ **Multiwavelength search for FRBs** — Searched for gamma-ray counterparts to FRBs using CHIME and the Swift/BAT satellite.. [Repo](https://github.com/afinemax/swift-bat)  
+- 🛰️ **Multiwavelength search for FRBs** — Searched for gamma-ray counterparts to FRBs using CHIME and the Swift/BAT satellite. [Repo](https://github.com/afinemax/swift-bat)  
 - 🧲 **Correcting extreme Faraday rotation** — Method for correcting intrachannel bandwidth depolarization, implemented into [RM-Tools(Repo)](https://github.com/CIRADA-Tools/RM-Tools). [MNRAS Fine et al 2023 (paper)](https://arxiv.org/abs/2302.03134) 
 - 🛠️ **DIY Radio Astronomy** — Building a functioning paint-can radio telescope. [Project Repo](https://github.com/afinemax/C.A.N.-Compact-Astronomy-Node)  
 - 🌍 **Climate data bot** — Built a Mastodon bot to post daily Antarctic and North Atlantic sea ice data. [Repo](https://github.com/afinemax/climate_change_bot)  
@@ -58,16 +58,17 @@ I have a keen interest in Fast Radio Bursts, both in finding them, and using the
 
 ---
 
-### Publications:
-[**Maxwell A. Fine** , Cameron L. Van Eck, & Luke Pratley “Correcting Bandwidth Depolarization by Extreme Faraday Rotation”, Monthly Notices of the Royal Astronomical Society 2023.](https://arxiv.org/abs/2302.03134)
-
-
----
-### Tech Stack
+### Tech Stack:
 - **Languages:** Python, Bash, Julia
 - **Tools & Libraries:** Numpy, Scipy, Astropy, Pandas, Matplotlib, PyTorch, Scikit-learn, TensorFlow, Presto
 - **DevOps & Systems:** Git, Docker, Linux, AWS, Kubernetes
 - **Specialties:** Signal processing, time-series analysis, ML for scientific data, big data (Tb-scale), Bayesian statistics
+
+
+
+---
+### Publications:
+[**Maxwell A. Fine** , Cameron L. Van Eck, & Luke Pratley “Correcting Bandwidth Depolarization by Extreme Faraday Rotation”, Monthly Notices of the Royal Astronomical Society 2023.](https://arxiv.org/abs/2302.03134)
 
 
 <!--
@@ -88,7 +89,7 @@ I have contributed significantly to the open-source scientific <code>Python</cod
 ### I’m looking to collaborate on:<br>
 •  Anything astronomy!<br>
 •  RaspberryPi projects<br>
-•  Data Science projets<br>
+•  Data Science projects<br>
 •  Open Science & Educational Projects<br>
 
 
