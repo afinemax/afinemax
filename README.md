@@ -6,12 +6,12 @@
 ---
 
 ### 🔭 Projects & Research:  
-- 📡 **Scintillation of repeating Fast Radio Bursts (FRBs)** — My MSc thesis at the University of Amsterdam explores how FRBs twinkle, [(Private CHIME project repo, private)](https://github.com/CHIMEFRB/chime_repeaters_scintillation).  
-- 🛰️ **Multiwavelength search for FRBs** — Searched for gamma-ray counterparts to FRBs using CHIME and the Swift/BAT satellite. [Repo](https://github.com/afinemax/swift-bat)  
-- 🧲 **Correcting extreme Faraday rotation** — Method for correcting intrachannel bandwidth depolarization, implemented into [RM-Tools(Repo)](https://github.com/CIRADA-Tools/RM-Tools). [MNRAS Fine et al 2023 (paper)](https://arxiv.org/abs/2302.03134) 
-- 🛠️ **DIY Radio Astronomy** — Building a functioning paint-can radio telescope. [Project Repo](https://github.com/afinemax/C.A.N.-Compact-Astronomy-Node)  
-- 🌍 **Climate data bot** — Built a Mastodon bot to post daily Antarctic and North Atlantic sea ice data. [Repo](https://github.com/afinemax/climate_change_bot)  
-- 📡 **FRBs with the 25m Dwingeloo Radio Telescope** — Built a real-time FRB detection pipeline for the 25M radio telescope, and detected a real burst during summer 2024 internship at ASTRON. [Project Repo](https://github.com/afinemax/Astron_2024)
+-  **Scintillation of repeating Fast Radio Bursts (FRBs)** — My MSc thesis at the University of Amsterdam explores how FRBs twinkle, [(Private CHIME project repo, private)](https://github.com/CHIMEFRB/chime_repeaters_scintillation).  
+-  **Multiwavelength search for FRBs** — Searched for gamma-ray counterparts to FRBs using CHIME and the Swift/BAT satellite. [Repo](https://github.com/afinemax/swift-bat)  
+-  **Correcting extreme Faraday rotation** — Method for correcting intrachannel bandwidth depolarization, implemented into [RM-Tools(Repo)](https://github.com/CIRADA-Tools/RM-Tools). [MNRAS Fine et al 2023 (paper)](https://arxiv.org/abs/2302.03134) 
+-  **DIY Radio Astronomy** — Building a functioning paint-can radio telescope. [Project Repo](https://github.com/afinemax/C.A.N.-Compact-Astronomy-Node)  
+-  **Climate data bot** — Built a Mastodon bot to post daily Antarctic and North Atlantic sea ice data. [Repo](https://github.com/afinemax/climate_change_bot)  
+-  **FRBs with the 25m Dwingeloo Radio Telescope** — Built a real-time FRB detection pipeline for the 25M radio telescope, and detected a real burst during summer 2024 internship at ASTRON. [Project Repo](https://github.com/afinemax/Astron_2024)
 <!--
 ---
 
