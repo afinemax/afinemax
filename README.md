@@ -12,8 +12,7 @@
 -  **DIY Radio Astronomy** — Building a functioning paint-can radio telescope. [Project Repo](https://github.com/afinemax/C.A.N.-Compact-Astronomy-Node)  
 -  **Climate data bot** — Built a Mastodon bot to post daily Antarctic and North Atlantic sea ice data. [Repo](https://github.com/afinemax/climate_change_bot)  
 -  **FRBs with the 25m Dwingeloo Radio Telescope** — Built a real-time FRB detection pipeline for the 25M radio telescope, and detected a real burst during summer 2024 internship at ASTRON. [Project Repo](https://github.com/afinemax/Astron_2024)
-<!--
----
+
 
 ### About Me:
 
