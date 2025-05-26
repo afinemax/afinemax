@@ -70,7 +70,12 @@ I have a keen interest in Fast Radio Bursts, both in finding them, and using the
 
 ---
 ### Publications:
-[**Maxwell A. Fine** , Cameron L. Van Eck, & Luke Pratley “Correcting Bandwidth Depolarization by Extreme Faraday Rotation”, Monthly Notices of the Royal Astronomical Society 2023.](https://arxiv.org/abs/2302.03134)
+[Kaitlyn Shin, Alice Curtin, **Maxwell Fine**, Ayush Pandhi et al, (2025). "The CHIME/FRB Discovery of the
+Extremely Active Fast Radio Burst Source FRB 20240114A." Submitted to the American Astronomical Society.
+arXiv:2505.13297.](https://arxiv.org/abs/2505.13297)
+
+
+[**Maxwell A. Fine** , Cameron L. Van Eck, & Luke Pratley “Correcting Bandwidth Depolarization by Extreme Faraday Rotation”, Monthly Notices of the Royal Astronomical Society 2023. arXiv:2302.03134](https://arxiv.org/abs/2302.03134)
 
 
 <!--
