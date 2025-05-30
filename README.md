@@ -4,23 +4,23 @@
 <!-- ..........~*~*~*~*~*~*~*~........... -->
 
 # Astronomy Is Looking Up! 🧙‍♂️🐚📡💫 
-<a href="https://afinemax.github.io/afinemax1/afinemax_resume.pdf" target="_blank">Academic Resume</a> | <a href="https://afinemax.github.io/afinemax1/afinemax_datascience_python_dev_cv.pdf" target="_blank">Industry Resume</a> | [Personal Website](https://afinemax.github.io/afinemax1/) | [Reference Sheets](https://github.com/afinemax/dev-reference/) |  U.S. and Canadian Citizen <br>
+<a href="https://afinemax.github.io/afinemax1/afinemax_resume.pdf" target="_blank">Academic Resume</a> | <a href="https://afinemax.github.io/afinemax1/afinemax_datascience_python_dev_cv.pdf" target="_blank">Industry Resume</a> | [Personal Website](https://afinemax.github.io/afinemax1/) | [Reference Sheets](https://github.com/afinemax/dev-reference/) |  **U.S. and Canadian Citizen** <br>
 
 ---
 
 ### 🔭 Projects & Research:  
--  **Scintillation of repeating Fast Radio Bursts (FRBs)** — My MSc thesis at the University of Amsterdam explores how FRBs twinkle, [(Private CHIME project repo, private)](https://github.com/CHIMEFRB/chime_repeaters_scintillation).  
--  **Multiwavelength search for FRBs** — Searched for gamma-ray counterparts to FRBs using CHIME and the Swift/BAT satellite. [Repo](https://github.com/afinemax/swift-bat)  
+-  **Scintillation of repeating Fast Radio Bursts (FRBs)** — My MSc thesis at the University of Amsterdam explores how FRBs twinkle, [(Private CHIME project repo)](https://github.com/CHIMEFRB/chime_repeaters_scintillation).  
+-  **Multiwavelength search for FRBs** — Searched for gamma-ray counterparts to FRBs using CHIME and the Swift/BAT satellite. [Repo](https://github.com/afinemax/swift-bat) 
 -  **Correcting extreme Faraday rotation** — Method for correcting intrachannel bandwidth depolarization, implemented into [RM-Tools(Repo)](https://github.com/CIRADA-Tools/RM-Tools). [MNRAS Fine et al 2023 (paper)](https://arxiv.org/abs/2302.03134) 
--  **DIY Radio Astronomy** — Building a functioning paint-can radio telescope. [Project Repo](https://github.com/afinemax/C.A.N.-Compact-Astronomy-Node)  
--  **Climate data bot** — Built a Mastodon bot to post daily Antarctic and North Atlantic sea ice data. [Repo](https://github.com/afinemax/climate_change_bot)  
 -  **FRBs with the 25m Dwingeloo Radio Telescope** — Built a real-time FRB detection pipeline for the 25M radio telescope, and detected a real burst during summer 2024 internship at ASTRON. [Project Repo](https://github.com/afinemax/Astron_2024)
 
 
 ### About Me:
 
-My name is Max Fine. I'm a graduate student studying Physics & Astrophysics at the University of Amsterdam. I am a member of the [Astro Flash](https://astroflash-frb.github.io/) research group at the University of Amsterdam, the [CHIME/FRB](https://www.chime-frb.ca/) collaboration. When I'm not studying the stars, you can often find me exploring cafes and searching for the perfect latte. If it is not raining, playing frisbee in a park. I enjoy reading and tinkering with Raspberry Pis.
 
+I'm Max Fine, a graduate student in Physics & Astrophysics at the University of Amsterdam and a member of the [AstroFlash](https://astroflash-frb.github.io/) group and the [CHIME/FRB](https://www.chime-frb.ca/) collaboration. My research centers on Fast Radio Bursts—both detecting them and using them as tools to probe the universe. I’m broadly interested in radio transients, pulsars, scintillation, cosmic magnetism, and polarization, as well as the instrumentation and software that make cutting-edge radio astronomy possible. I'm also deeply engaged with data science for radio and multimessenger astronomy, with experience in algorithm design, scalable software pipelines, and machine learning.
+
+Outside of research, I enjoy reading, exploring new cafés in search of the perfect latte, tinkering with Raspberry Pis, and throwing a frisbee when the weather allows. On the left is me standing by the 25-m Dwingeloo Radio Telescope (DRT) at ASTRON, and the right is me with the other 2024 ASTRON/JIVE interns at the European Space Agency (ESA).
 
 <table>
   <tr>
@@ -33,7 +33,7 @@ My name is Max Fine. I'm a graduate student studying Physics & Astrophysics at t
   </tr>
 </table>
 
-On the left is me standing by the 25-m Dwingeloo Radio Telescope (DRT) at ASTRON, and the right is me with the other 2024 ASTRON/JIVE interns at the European Space Agency (ESA).
+
 ---
 
 
@@ -52,19 +52,16 @@ On the left is me with the other summer students at ASTRON this summer, the real
   </tr>
 </table>
 -->
----
-### Research Interests:
 
-I have a keen interest in Fast Radio Bursts, both in finding them, and using them to study the cosmos.  I have a broad interest in radio astronomy, astrophysical transients, pulsars, multi-messenger astronomy, observational cosmology, scintillation, radio polarization, cosmic magnetism, instrumentation. I am further interested in data science for radio & multimessenger astronomy - including algorithm, software development, and machine learning. I think finding exoplanets, and Gravitational Wave astronomy is neat. 
 
 
 ---
 
 ### Tech Stack:
 - **Languages:** Python, Bash, Julia
-- **Tools & Libraries:** Numpy, Scipy, Astropy, Pandas, Matplotlib, PyTorch, Scikit-learn, TensorFlow, Presto
+- **Tools & Libraries:** Numpy, Scipy, Astropy, Pandas, Matplotlib, PyTorch, Scikit-learn, TensorFlow, 
 - **DevOps & Systems:** Git, Docker, Linux, AWS, Kubernetes
-- **Specialties:** Signal processing, time-series analysis, ML for scientific data, big data (Tb-scale), Bayesian statistics
+- **Specialties:** Signal processing, time-series analysis, ML for scientific data, big data (Tb-scale), Bayesian statistics, statistical modeling
 
 
 
