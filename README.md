@@ -10,7 +10,7 @@
 ### About Me:
 
 
-I'm Max Fine, a graduate student in Physics & Astrophysics at the University of Amsterdam and a member of the [AstroFlash](https://astroflash-frb.github.io/) group and the [CHIME/FRB](https://www.chime-frb.ca/) collaboration. My research centers on Fast Radio Bursts—both detecting them and using them as tools to probe the universe. I’m broadly interested in radio transients, pulsars, scintillation, cosmic magnetism, observational cosmology, and polarization, as well as the instrumentation and software that make cutting-edge radio astronomy possible. I'm also deeply engaged with data science for radio and multimessenger astronomy, with experience in algorithm design, scalable software pipelines, and machine learning.
+I'm Max Fine, a graduate student in Physics & Astrophysics at the University of Amsterdam and a member of the [AstroFlash](https://astroflash-frb.github.io/) group and the [CHIME/FRB](https://www.chime-frb.ca/) collaboration. My research centers on Fast Radio Bursts (FRBs) — both detecting them and using them as tools to probe the universe. I’m broadly interested in radio transients, pulsars, scintillation, cosmic magnetism, observational cosmology, and polarization, as well as the instrumentation and software that make cutting-edge radio astronomy possible. I'm also deeply engaged with data science for radio and multimessenger astronomy, with experience in algorithm design, scalable software pipelines, and machine learning.
 
 Outside of research, I enjoy reading, exploring new cafés in search of the perfect latte, tinkering with Raspberry Pis, and throwing a frisbee when the weather allows.
 
@@ -19,7 +19,7 @@ Outside of research, I enjoy reading, exploring new cafés in search of the perf
 
 ---
 
-### 🔭 Projects & Research:  
+### Research:  
 -  **Scintillation of repeating Fast Radio Bursts (FRBs)** — My MSc thesis at the University of Amsterdam explores how FRBs twinkle, [(Private CHIME project repo)](https://github.com/CHIMEFRB/chime_repeaters_scintillation).  
 -  **Multiwavelength search for FRBs** — Searched for gamma-ray counterparts to FRBs using CHIME and the Swift/BAT satellite. [Repo](https://github.com/afinemax/swift-bat) 
 -  **Correcting extreme Faraday rotation** — Method for correcting intrachannel bandwidth depolarization, implemented into [RM-Tools(Repo)](https://github.com/CIRADA-Tools/RM-Tools). [MNRAS Fine et al 2023 (paper)](https://arxiv.org/abs/2302.03134) 
@@ -105,7 +105,7 @@ I have contributed significantly to the open-source scientific <code>Python</cod
 
 ---
 
-### 📚 Currently Reading:
+### Currently Reading:
 - *Machine Learning for Physics and Astronomy* — Dr. Viviana Acquaviva (2023)
 - *Don't Be Such a Scientist* — Dr. Randy Olson, Island Press (2018)
 - *The Richest Man in Babylon* — George S. Clason
