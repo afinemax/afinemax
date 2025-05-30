@@ -20,7 +20,11 @@
 
 I'm Max Fine, a graduate student in Physics & Astrophysics at the University of Amsterdam and a member of the [AstroFlash](https://astroflash-frb.github.io/) group and the [CHIME/FRB](https://www.chime-frb.ca/) collaboration. My research centers on Fast Radio Bursts—both detecting them and using them as tools to probe the universe. I’m broadly interested in radio transients, pulsars, scintillation, cosmic magnetism, observational cosmology, and polarization, as well as the instrumentation and software that make cutting-edge radio astronomy possible. I'm also deeply engaged with data science for radio and multimessenger astronomy, with experience in algorithm design, scalable software pipelines, and machine learning.
 
-Outside of research, I enjoy reading, exploring new cafés in search of the perfect latte, tinkering with Raspberry Pis, and throwing a frisbee when the weather allows. On the left is me standing by the 25-m Dwingeloo Radio Telescope (DRT) at ASTRON, and the right is me with the other 2024 ASTRON/JIVE interns at the European Space Agency (ESA).
+Outside of research, I enjoy reading, exploring new cafés in search of the perfect latte, tinkering with Raspberry Pis, and throwing a frisbee when the weather allows.
+
+
+<!--
+On the left is me standing by the 25-m Dwingeloo Radio Telescope (DRT) at ASTRON, and the right is me with the other 2024 ASTRON/JIVE interns at the European Space Agency (ESA).
 
 <table>
   <tr>
@@ -36,7 +40,7 @@ Outside of research, I enjoy reading, exploring new cafés in search of the perf
 
 
 
-<!--
+
 
 On the left is me with the other summer students at ASTRON this summer, the real adventure is the friends we make along the way! On the right is a photo of me operating the 25m Dwingeloo Radio Telescope, which I used for my research project. 
 
