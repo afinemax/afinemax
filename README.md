@@ -6,6 +6,17 @@
 # Astronomy Is Looking Up! 🧙‍♂️🐚📡💫 
 <a href="https://afinemax.github.io/afinemax1/afinemax_resume.pdf" target="_blank">Academic Resume</a> | <a href="https://afinemax.github.io/afinemax1/afinemax_datascience_python_dev_cv.pdf" target="_blank">Industry Resume</a> | [Personal Website](https://afinemax.github.io/afinemax1/) | [Reference Sheets](https://github.com/afinemax/dev-reference/) |  **U.S. and Canadian Citizen** <br>
 
+
+### About Me:
+
+
+I'm Max Fine, a graduate student in Physics & Astrophysics at the University of Amsterdam and a member of the [AstroFlash](https://astroflash-frb.github.io/) group and the [CHIME/FRB](https://www.chime-frb.ca/) collaboration. My research centers on Fast Radio Bursts—both detecting them and using them as tools to probe the universe. I’m broadly interested in radio transients, pulsars, scintillation, cosmic magnetism, observational cosmology, and polarization, as well as the instrumentation and software that make cutting-edge radio astronomy possible. I'm also deeply engaged with data science for radio and multimessenger astronomy, with experience in algorithm design, scalable software pipelines, and machine learning.
+
+Outside of research, I enjoy reading, exploring new cafés in search of the perfect latte, tinkering with Raspberry Pis, and throwing a frisbee when the weather allows.
+
+
+
+
 ---
 
 ### 🔭 Projects & Research:  
@@ -14,13 +25,25 @@
 -  **Correcting extreme Faraday rotation** — Method for correcting intrachannel bandwidth depolarization, implemented into [RM-Tools(Repo)](https://github.com/CIRADA-Tools/RM-Tools). [MNRAS Fine et al 2023 (paper)](https://arxiv.org/abs/2302.03134) 
 -  **FRBs with the 25m Dwingeloo Radio Telescope** — Built a real-time FRB detection pipeline for the 25M radio telescope, and detected a real burst during summer 2024 internship at ASTRON. [Project Repo](https://github.com/afinemax/Astron_2024)
 
+---
 
-### About Me:
+### Tech Stack:
+- **Languages:** Python, Bash, Julia
+- **Tools & Libraries:** Numpy, Scipy, Astropy, Pandas, Matplotlib, PyTorch, Scikit-learn, TensorFlow, 
+- **DevOps & Systems:** Git, Docker, Linux, AWS, Kubernetes
+- **Specialties:** Signal processing, time-series analysis, ML for scientific data, big data (Tb-scale), Bayesian statistics, statistical modeling
 
 
-I'm Max Fine, a graduate student in Physics & Astrophysics at the University of Amsterdam and a member of the [AstroFlash](https://astroflash-frb.github.io/) group and the [CHIME/FRB](https://www.chime-frb.ca/) collaboration. My research centers on Fast Radio Bursts—both detecting them and using them as tools to probe the universe. I’m broadly interested in radio transients, pulsars, scintillation, cosmic magnetism, observational cosmology, and polarization, as well as the instrumentation and software that make cutting-edge radio astronomy possible. I'm also deeply engaged with data science for radio and multimessenger astronomy, with experience in algorithm design, scalable software pipelines, and machine learning.
+---
+### Publications:
+[Kaitlyn Shin, Alice Curtin, **Maxwell Fine**, Ayush Pandhi et al, (2025). "The CHIME/FRB Discovery of the
+Extremely Active Fast Radio Burst Source FRB 20240114A." Submitted to the American Astronomical Society.
+arXiv:2505.13297.](https://arxiv.org/abs/2505.13297)
 
-Outside of research, I enjoy reading, exploring new cafés in search of the perfect latte, tinkering with Raspberry Pis, and throwing a frisbee when the weather allows.
+
+[**Maxwell A. Fine** , Cameron L. Van Eck, & Luke Pratley (2023) “Correcting Bandwidth Depolarization by Extreme Faraday Rotation”, Monthly Notices of the Royal Astronomical Society 2023. arXiv:2302.03134](https://arxiv.org/abs/2302.03134)
+
+
 
 
 <!--
@@ -58,24 +81,10 @@ On the left is me with the other summer students at ASTRON this summer, the real
 
 
 
----
-
-### Tech Stack:
-- **Languages:** Python, Bash, Julia
-- **Tools & Libraries:** Numpy, Scipy, Astropy, Pandas, Matplotlib, PyTorch, Scikit-learn, TensorFlow, 
-- **DevOps & Systems:** Git, Docker, Linux, AWS, Kubernetes
-- **Specialties:** Signal processing, time-series analysis, ML for scientific data, big data (Tb-scale), Bayesian statistics, statistical modeling
 
 
 
----
-### Publications:
-[Kaitlyn Shin, Alice Curtin, **Maxwell Fine**, Ayush Pandhi et al, (2025). "The CHIME/FRB Discovery of the
-Extremely Active Fast Radio Burst Source FRB 20240114A." Submitted to the American Astronomical Society.
-arXiv:2505.13297.](https://arxiv.org/abs/2505.13297)
 
-
-[**Maxwell A. Fine** , Cameron L. Van Eck, & Luke Pratley “Correcting Bandwidth Depolarization by Extreme Faraday Rotation”, Monthly Notices of the Royal Astronomical Society 2023. arXiv:2302.03134](https://arxiv.org/abs/2302.03134)
 
 
 <!--
@@ -92,14 +101,21 @@ I have contributed significantly to the open-source scientific <code>Python</cod
 🔭 I’m currently working on:<br>
 •  Searching for Gamma-rays from FRBs using SWIFT/BAT & GUANO
 -->
+
+
+---
+
+### 📚 Currently Reading:
+- *Machine Learning for Physics and Astronomy* — Dr. Viviana Acquaviva (2023)
+- *Don't Be Such a Scientist* — Dr. Randy Olson, Island Press (2018)
+- *The Richest Man in Babylon* — George S. Clason
+
 ---
 ### I’m looking to collaborate on:<br>
 •  Anything astronomy!<br>
 •  RaspberryPi projects<br>
 •  Data Science projects<br>
 •  Open Science & Educational Projects<br>
-
-
 
 
 <!--
