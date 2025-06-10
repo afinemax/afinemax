@@ -104,13 +104,6 @@ I have contributed significantly to the open-source scientific <code>Python</cod
 
 
 ---
-
-### Currently Reading:
-- *Machine Learning for Physics and Astronomy* — Dr. Viviana Acquaviva (2023)
-- *Don't Be Such a Scientist* — Dr. Randy Olson, Island Press (2018)
-- *The Richest Man in Babylon* — George S. Clason
-
----
 ### I’m looking to collaborate on:<br>
 •  Anything astronomy!<br>
 •  RaspberryPi projects<br>
