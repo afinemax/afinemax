@@ -41,7 +41,7 @@ Extremely Active Fast Radio Burst Source FRB 20240114A." Submitted to the Americ
 arXiv:2505.13297.](https://arxiv.org/abs/2505.13297)
 
 
-[**Maxwell A. Fine** , Cameron L. Van Eck, & Luke Pratley (2023) “Correcting Bandwidth Depolarization by Extreme Faraday Rotation”, Monthly Notices of the Royal Astronomical Society 2023. arXiv:2302.03134](https://arxiv.org/abs/2302.03134)
+[**Maxwell A. Fine**, Cameron L. Van Eck, & Luke Pratley (2023) “Correcting Bandwidth Depolarization by Extreme Faraday Rotation”, Monthly Notices of the Royal Astronomical Society 2023. arXiv:2302.03134](https://arxiv.org/abs/2302.03134)
 
 
 
