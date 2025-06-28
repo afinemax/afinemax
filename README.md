@@ -31,10 +31,6 @@ Outside of research, I enjoy reading, exploring new cafés in search of the perf
 
 ---
 
-
-
----
-
 ### Tech Stack:
 - **Languages:** Python, Bash, Julia
 - **Tools & Libraries:** Numpy, Scipy, Astropy, Pandas, Matplotlib, PyTorch, Scikit-learn, TensorFlow
