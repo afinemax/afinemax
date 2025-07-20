@@ -34,8 +34,8 @@ Outside of research, I enjoy reading, exploring new cafés in search of the perf
 ### Tech Stack:
 - **Languages:** Python, Bash, Julia
 - **Tools & Libraries:** Numpy, Scipy, Astropy, Pandas, Matplotlib, PyTorch, Scikit-learn, TensorFlow
-- **DevOps & Systems:** Git, Docker, Linux, AWS, Kubernetes, Slurm, Raspberry Pi, SDR
-- **Skills:** Signal processing, time-series analysis, Machine Learning for scientific data, big data (Tb-scale), Real-time analysis pipelines, Bayesian statistics, statistical modeling
+- **DevOps & Systems:** Git, Docker, Linux, AWS, Kubernetes, Slurm, Raspberry Pi, SDR, Grafana
+- **Skills:** Signal processing, time-series analysis, Machine Learning, big data (Tb-scale), Real-time analysis pipelines, Bayesian statistics, statistical modeling
 
 
 ---
