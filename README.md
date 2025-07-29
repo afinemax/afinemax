@@ -16,7 +16,7 @@ I recently completed my MSc in Physics & Astrophysics at the University of Amste
 
 My research centers on Fast Radio Bursts (FRBs) - both detecting them and using them as tools to probe the universe. I’m broadly interested in radio transients, pulsars, scintillation, cosmic magnetism, observational cosmology, and polarization, as well as the instrumentation and software that make cutting-edge radio astronomy possible. I'm also deeply engaged with data science for radio and multimessenger astronomy, with experience in algorithm design, scalable software pipelines, and machine learning.
 
-Outside of research, I enjoy reading, exploring new cafés in search of the perfect latte, tinkering with Raspberry Pis, and throwing a frisbee. Come join my [Minecraft server](https://afinemax.github.io/mc_server_website/) that is hosted on my Rasberry Pi. 
+Outside of research, I enjoy reading, exploring new cafés in search of the perfect latte, tinkering with Raspberry Pis, and throwing a frisbee. Come join my [Minecraft server](https://afinemax.github.io/mc_server_website/), which I host on my Raspberry Pi.
 
 
 ---
