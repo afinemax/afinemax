@@ -9,8 +9,8 @@
 
 
 ### About Me:
-<img src="https://raw.githubusercontent.com/afinemax/afinemax1/refs/heads/master/images/astro_flash_frb_2025.jpg" width="35%" align="right">
-
+<!-- <img src="https://raw.githubusercontent.com/afinemax/afinemax1/refs/heads/master/images/astro_flash_frb_2025.jpg" width="35%" align="right"> -->
+<img src="https://raw.githubusercontent.com/afinemax/afinemax1/refs/heads/master/images/astro_flash_frb_2025.jpg" width="40%" align="right">
 
 I'm Max Fine, a PhD student at McGill University working with the **Canadian Hydrogen Intensity Mapping Experiment** [(CHIME/FRB)](https://www.chime-frb.ca/) and the **Canadian Hydrogen Observatory and Radio-transient Detector** [(CHORD)](https://www.chord-observatory.ca/home) collaborations under Professor Vicky Kaspi. These are cutting-edge radio telescopes located in Canada.
 
