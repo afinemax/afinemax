@@ -4,15 +4,17 @@
 <!-- ..........~*~*~*~*~*~*~*~........... -->
 
 # Astronomy Is Looking Up! 🧙‍♂️🐚📡💫 
+
 <a href="https://afinemax.github.io/afinemax1/afinemax_resume.pdf" target="_blank">Academic Resume</a> | <a href="https://afinemax.github.io/afinemax1/afinemax_datascience_python_dev_cv.pdf" target="_blank">Industry Resume</a> | [Personal Website](https://afinemax.github.io/afinemax1/) | [Reference Sheets](https://github.com/afinemax/reference_sheets/tree/master) |  **U.S. and Canadian Citizen** <br>
 
 
 ### About Me:
+<img src="https://raw.githubusercontent.com/afinemax/afinemax1/refs/heads/master/images/astro_flash_frb_2025.jpg" width="35%" align="right">
 
 
 I'm Max Fine, a PhD student at McGill University working with the **Canadian Hydrogen Intensity Mapping Experiment** [(CHIME/FRB)](https://www.chime-frb.ca/) and the **Canadian Hydrogen Observatory and Radio-transient Detector** [(CHORD)](https://www.chord-observatory.ca/home) collaborations under Professor Vicky Kaspi. These are cutting-edge radio telescopes located in Canada.
 
-I recently completed my MSc in Physics & Astrophysics at the University of Amsterdam, where I was a member of the [AstroFlash](https://astroflash-frb.github.io/) group and the CHIME/FRB collaboration. Before that, I completed my undergraduate degree in Physics & Astronomy (with Honors) at the University of Toronto. 
+I recently completed my MSc in Physics & Astrophysics at the University of Amsterdam, where I was a member of the [AstroFlash](https://astroflash-frb.github.io/) group  and the CHIME/FRB collaboration where I worked with Professors Jason Hessels, and Ziggy Pleunis. Before that, I completed my undergraduate degree in Physics & Astronomy (with Honors) at the University of Toronto. 
 
 My research centers on Fast Radio Bursts (FRBs) - both detecting them and using them as tools to probe the universe. I’m broadly interested in radio transients, pulsars, scintillation, cosmic magnetism, observational cosmology, and polarization, as well as the instrumentation and software that make cutting-edge radio astronomy possible. I'm also deeply engaged with data science for radio and multimessenger astronomy, with experience in algorithm design, scalable software pipelines, and machine learning.
 
