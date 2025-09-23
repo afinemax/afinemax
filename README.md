@@ -42,6 +42,8 @@ Outside of research, I enjoy reading, exploring new cafés in search of the perf
 
 ---
 ### Publications:
+[O.S. Ould-Boukattine, A.J. Cooper, J.W.T. Hessels, D.M. Hewitt, S.K. Ocker, A. Moroianu, K. Nimmo, M.P. Snelders, I. Cognard, T.J. Dijkema, **M. Fine**, M.P. Gawroński, W. Herrmann, J. Huang, F. Kirsten, Z. Pleunis, W. Puchalska, S. Ranguin, T. Telkamp, (2025). "A HyperFlash and ÈCLAT view of the local environment and energetics of the repeating FRB 20240619D." Submitted to the Monthly Notices of the Royal Astronomical Society. arXiv:2509.16374.](https://arxiv.org/abs/2509.16374)
+
 [Kaitlyn Shin, Alice Curtin, **Maxwell Fine**, Ayush Pandhi et al, (2025). "The CHIME/FRB Discovery of the
 Extremely Active Fast Radio Burst Source FRB 20240114A." Submitted to the American Astronomical Society.
 arXiv:2505.13297.](https://arxiv.org/abs/2505.13297)
