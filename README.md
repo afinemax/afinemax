@@ -24,7 +24,7 @@ Outside of research, I enjoy reading, exploring new cafés in search of the perf
 ---
 
 ### Research:  
-- ** FRB property correlations for the 4th CHIME Repeating FRB catalog** - [private repo](https://github.com/CHIMEFRB/rn4_maxfine)
+- **FRB property correlations for the 4th CHIME Repeating FRB catalog** - [private repo](https://github.com/CHIMEFRB/rn4_maxfine)
 - **Maintainer, and lead developer of the CHIME/FRB exposure pipeline** - Tracks On-source time, telescope downtime, and calibrates sensitivity using a catalog of pulsars. [Private CHIME repo](https://github.com/CHIMEFRB/frb-exposure) and [outrigger exposure repo](https://github.com/CHIMEFRB/outrigger_exposure_dev)
 -  **Scintillation of repeating Fast Radio Bursts (FRBs)** - My MSc thesis at the University of Amsterdam explores how FRBs twinkle, [Private CHIME repo] (https://github.com/CHIMEFRB/chime_repeaters_scintillation).
 -  **FRBs with the 25m Dwingeloo Radio Telescope** - Built a real-time FRB detection pipeline for the 25M radio telescope, and detected a real burst during summer 2024 internship at ASTRON. [Project Repo](https://github.com/afinemax/Astron_2024)
