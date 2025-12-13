@@ -5,7 +5,7 @@
 
 # Astronomy Is Looking Up! 🧙‍♂️🐚📡💫 
 
-<a href="https://afinemax.github.io/afinemax1/afinemax_resume.pdf" target="_blank">Academic Resume</a> | <a href="https://afinemax.github.io/afinemax1/afinemax_datascience_python_dev_cv.pdf" target="_blank">Industry Resume</a> | [Personal Website](https://afinemax.github.io/afinemax1/) | [Reference Sheets](https://github.com/afinemax/reference_sheets/tree/master) |  **U.S. and Canadian Citizen** <br>
+<a href="https://afinemax.github.io/afinemax1/afinemax_resume.pdf" target="_blank">Academic Resume</a> | <a href="https://afinemax.github.io/afinemax1/afinemax_industry.pdf" target="_blank">Industry Resume</a> | [Personal Website](https://afinemax.github.io/afinemax1/) | [Reference Sheets](https://github.com/afinemax/reference_sheets/tree/master) |  **U.S. and Canadian Citizen** <br>
 
 
 ### About Me:
