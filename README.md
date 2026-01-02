@@ -1,6 +1,7 @@
 <!-- steelblue, alpha=0.5, firebrick, orchid  https://colorbrewer2.org/#type=qualitative&scheme=Dark2&n=3 --> 
 <!-- ..........~*~*~*~*~*~*~*~........... -->
 <!-- astronomy_is_looking_up_42069! -->
+<!-- coco beach house https://web.archive.org/web/20260102044054/https://www.redfin.com/FL/Cocoa-Beach/2375-S-Atlantic-Ave-32931/unit-601/home/119989481 --> 
 <!-- ..........~*~*~*~*~*~*~*~........... -->
 
 # Astronomy Is Looking Up! 🧙‍♂️🐚📡💫 
