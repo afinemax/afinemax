@@ -7,7 +7,7 @@
 <!-- ..........~*~*~*~*~*~*~*~........... -->
 
 # Astronomy Is Looking Up! 🧙‍♂️🐚📡💫 
-## Radio astronomer | FRBs | Real-time pipelines | CHIME/FRB & CHORD
+## Radio astronomer | FRBs | CHIME/FRB & CHORD
 
 <a href="https://afinemax.github.io/afinemax1/afinemax_resume.pdf" target="_blank">Academic Resume</a> | <a href="https://afinemax.github.io/afinemax1/afinemax_industry.pdf" target="_blank">Industry Resume</a> | [Personal Website](https://afinemax.github.io/afinemax1/) | [Reference Sheets](https://github.com/afinemax/reference_sheets/tree/master) |  **U.S. and Canadian Citizen** <br>
 
