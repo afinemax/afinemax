@@ -145,8 +145,6 @@ I have contributed significantly to the open-source scientific <code>Python</cod
 -->
 
 
-### [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/afinemax) 
-
 
 <!--
 ### ✍️ Random Dev Quote
