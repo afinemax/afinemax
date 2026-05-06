@@ -24,7 +24,7 @@ My research centers on Fast Radio Bursts (FRBs) - both detecting them and using 
 
 I also maintain a climate change bot on Bluesky that posts daily updates of North Atlantic sea surface temperatures and Antarctic sea ice extent [Blue Sky link](https://bsky.app/profile/climate-change-bot.bsky.social).
 
-Outside of research, I enjoy reading, exploring new cafés in search of the perfect latte, tinkering with Raspberry Pis, and throwing a frisbee. Come join my [Minecraft server](https://afinemax.github.io/mc_server_website/), which I host on my Raspberry Pi.
+Outside of research, I enjoy [reading](https://github.com/afinemax/afinemax_library), exploring new cafés in search of the perfect latte, tinkering with Raspberry Pis, and throwing a frisbee. Come join my [Minecraft server](https://afinemax.github.io/mc_server_website/), which I host on my Raspberry Pi.
 
 
 ---
