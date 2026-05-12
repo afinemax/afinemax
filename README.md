@@ -51,14 +51,17 @@ Outside of research, I enjoy [reading](https://github.com/afinemax/afinemax_libr
 
 ---
 ### Select Publications:
-[O.S. Ould-Boukattine, A.J. Cooper, J.W.T. Hessels, D.M. Hewitt, S.K. Ocker, A. Moroianu, K. Nimmo, M.P. Snelders, I. Cognard, T.J. Dijkema, **M. Fine**, M.P. Gawroński, W. Herrmann, J. Huang, F. Kirsten, Z. Pleunis, W. Puchalska, S. Ranguin, T. Telkamp, (2025). "A HyperFlash and ÈCLAT view of the local environment and energetics of the repeating FRB 20240619D." Submitted to the Monthly Notices of the Royal Astronomical Society. arXiv:2509.16374.](https://arxiv.org/abs/2509.16374)
 
-[Kaitlyn Shin, Alice Curtin, **Maxwell Fine**, Ayush Pandhi et al, (2025). "The CHIME/FRB Discovery of the
-Extremely Active Fast Radio Burst Source FRB 20240114A." Submitted to the American Astronomical Society.
+[Cook, A. M., Shin, K., Pleunis, Z., **Fine, M.**, et al. (2026). *Discovery of 30 Repeating Fast Radio Burst Sources and Uniform Population Statistics of 80 Repeating Sources from CHIME/FRB*. Submitted to the American Astronomical Society.](https://arxiv.org/abs/2605.08410)
+
+[O.S. Ould-Boukattine, A.J. Cooper, J.W.T. Hessels, D.M. Hewitt, S.K. Ocker, A. Moroianu, K. Nimmo, M.P. Snelders, I. Cognard, T.J. Dijkema, **M. Fine**, M.P. Gawroński, W. Herrmann, J. Huang, F. Kirsten, Z. Pleunis, W. Puchalska, S. Ranguin, T. Telkamp, (2025). "A HyperFlash and ÈCLAT view of the local environment and energetics of the repeating FRB 20240619D." The Monthly Notices of the Royal Astronomical Society. arXiv:2509.16374.](https://arxiv.org/abs/2509.16374)
+
+[Kaitlyn Shin, Alice Curtin, **Maxwell Fine**,  et al, (2025). "The CHIME/FRB Discovery of the
+Extremely Active Fast Radio Burst Source FRB 20240114A." The American Astronomical Society.
 arXiv:2505.13297.](https://arxiv.org/abs/2505.13297)
 
 
-[**Maxwell A. Fine**, Cameron L. Van Eck, & Luke Pratley (2023) “Correcting Bandwidth Depolarization by Extreme Faraday Rotation”, Monthly Notices of the Royal Astronomical Society 2023. arXiv:2302.03134](https://arxiv.org/abs/2302.03134)
+[**Maxwell A. Fine**, Cameron L. Van Eck, & Luke Pratley (2023) “Correcting Bandwidth Depolarization by Extreme Faraday Rotation”, The Monthly Notices of the Royal Astronomical Society 2023. arXiv:2302.03134](https://arxiv.org/abs/2302.03134)
 
 
 
