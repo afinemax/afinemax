@@ -65,7 +65,7 @@ Outside of research, I enjoy [reading](https://github.com/afinemax/afinemax_libr
 - **Languages:** Python, Bash, Julia
 - **Tools & Libraries:** Numpy, Scipy, Numba, Astropy, Pandas, Matplotlib, PyTorch, Scikit-learn, TensorFlow
 - **DevOps & Systems:** Git, Docker, Linux, AWS, Kubernetes, Slurm, Raspberry Pi, SDR, Grafana, CI/CD
-- **Skills:** Signal processing, time-series analysis, Machine Learning, big data (Tb-scale), Real-time analysis pipelines, Bayesian statistics, statistical modeling
+- **Skills:** Signal processing, time-series analysis, Machine Learning, big data (Tb-scale), Real-time analysis pipelines, Bayesian statistics, statistical modeling, simulation based inference 
 
 
 ---
