@@ -42,9 +42,9 @@ I'm Max Fine, a PhD student at McGill University and a member of the [AstroFlash
 
 I recently completed my MSc in Physics & Astrophysics at the University of Amsterdam, where I was also a member of the AstroFlash group and the CHIME/FRB collaboration, working with Professors Jason Hessels and Ziggy Pleunis. Before that, I earned my undergraduate degree in Physics & Astronomy (with Honors) at the University of Toronto.
 
-My research centers on Fast Radio Bursts (FRBs) - both detecting them and using them as tools to probe the universe. I’m broadly interested in radio transients, pulsars, scintillation, cosmic magnetism, observational cosmology, and polarization, as well as the instrumentation and software that make cutting-edge radio astronomy possible. I'm also deeply engaged with data science for radio and multimessenger astronomy, with experience in algorithm design, scalable software pipelines, and machine learning.
+My research centers on Fast Radio Bursts (FRBs) - both detecting them and using them as tools to probe the universe. I’m broadly interested in radio transients, pulsars, scintillation, cosmic magnetism, observational cosmology, and polarization, as well as the instrumentation, methods and software that make cutting-edge radio astronomy possible.
 
-I also maintain a climate change bot on Bluesky that posts daily updates of North Atlantic sea surface temperatures and Antarctic sea ice extent [Blue Sky link](https://bsky.app/profile/climate-change-bot.bsky.social).
+I also maintain a climate change bot on Bluesky that posts daily updates of North Atlantic sea surface temperatures and Antarctic sea ice extent [Bluesky link](https://bsky.app/profile/climate-change-bot.bsky.social).
 
 Outside of research, I enjoy [reading](https://github.com/afinemax/afinemax_library), exploring new cafés in search of the perfect latte, tinkering with Raspberry Pis, and throwing a frisbee. Come join my [Minecraft server](https://afinemax.github.io/mc_server_website/), which I host on my Raspberry Pi.
 
