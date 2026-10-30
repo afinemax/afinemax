@@ -42,7 +42,8 @@ nelson mandela speach http://www.mandela.gov.za/mandela_speeches/1993/930821_jew
 
 I'm Max Fine, a PhD student at McGill University and a member of the [AstroFlash](https://astroflash-frb.github.io/) group. I work with the **Canadian Hydrogen Intensity Mapping Experiment** [(CHIME/FRB)](https://www.chime-frb.ca/) and the **Canadian Hydrogen Observatory and Radio-transient Detector** [(CHORD)](https://www.chord-observatory.ca/home) collaborations under Professors Vicky Kaspi and Jason Hessels. These are cutting-edge radio telescopes located in Canada.
 
-I recently completed my MSc in Physics & Astrophysics at the University of Amsterdam, where I was also a member of the AstroFlash group and the CHIME/FRB collaboration, working with Professors Jason Hessels and Ziggy Pleunis. Before that, I earned my undergraduate degree in Physics & Astronomy (with Honors) at the University of Toronto.
+I recently completed my MSc in Physics & Astrophysics at the University of Amsterdam, where I was also a member of the AstroFlash group and the CHIME/FRB collaboration, working with Professors Jason Hessels and Ziggy Pleunis. I was a Graduate Research Fellow at ASTRON, the Netherlands Institute for Radio Astronomy, where I implemented a real-time Fast Radio Burst (FRB) 
+detection system using the 25-meter Dwingeloo Radio Telescope. Before that, I earned my undergraduate degree in Physics & Astronomy (with Honors) at the University of Toronto.
 
 My research centers on Fast Radio Bursts (FRBs) - both detecting them and using them as tools to probe the universe. I’m broadly interested in radio transients, pulsars, scintillation, cosmic magnetism, observational cosmology, and polarization, as well as the instrumentation, methods and software that make cutting-edge radio astronomy possible.
 
